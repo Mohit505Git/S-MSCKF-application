@@ -2,9 +2,8 @@
 <br>
 S-MSCKF from https://github.com/KumarRobotics/msckf_vio
 
-### Mainly focus on installation and explanation
-
 <br>
+### Mainly focus on installation and explanation
 <br>
 
 #### Install
