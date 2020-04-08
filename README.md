@@ -1,6 +1,6 @@
 # S-MSCKF-application
 <br>
-S-MSCKF from [https://github.com/KumarRobotics/msckf_vio](https://github.com/KumarRobotics/msckf_vio)
+S-MSCKF from https://github.com/KumarRobotics/msckf_vio
 
 <br>
 
