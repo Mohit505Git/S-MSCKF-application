@@ -18,6 +18,7 @@ S-MSCKF from https://github.com/KumarRobotics/msckf_vio
 <br>
 
 ## Application 1 : Flight Goggles
++ FlightGoggles : [here](http://flightgoggles.mit.edu)
 ### Setup
 + Refer the yaml files in [here](https://github.com/engcang/S-MSCKF-application/tree/master/flightgoggles)
 + Transformation between Cam and IMU(Body) is really important
@@ -27,3 +28,5 @@ S-MSCKF from https://github.com/KumarRobotics/msckf_vio
 <br>
 
 ### Result Clip
++ VINS-Fusion vs S-MSCKF on FlightGoggles : [here](https://youtu.be/s_Ol-k8rhwY)
+
