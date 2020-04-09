@@ -30,3 +30,6 @@ S-MSCKF from https://github.com/KumarRobotics/msckf_vio
 ### Result Clip
 + VINS-Fusion vs S-MSCKF on FlightGoggles : [here](https://youtu.be/s_Ol-k8rhwY)
 
+  <p align="center">
+  <img src="https://github.com/engcang/S-MSCKF-application/blob/master/Screenshot%20from%202020-04-09%2009-21-53.png" width="600"/>
+  </p>
